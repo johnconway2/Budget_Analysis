@@ -1,3 +1,2 @@
 # Budget_Analysis
-First time using Jupyter notebook and pandas.
-Updating file to test adding new file to github
+First analysis project. Trying out opening and reading csv files.
